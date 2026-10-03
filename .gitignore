@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+*.log
+/data/raw/
+/data/rawq/
+/data/rawqc/
+/data/qcew/
